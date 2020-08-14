@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "ue5SyU3mh72wLa9Z9eUIBO6X5+1XlOv4I6LyNC2CWoSKUAfY+aiMuu2CXwx5P+kXa3J7de9rsrfo8egtabSmmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nanno\\Documents\\GitHub\\BlazorApp\\save-points\\00-get-started\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.4\\microsoft.aspnetcore.authorization.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.4\\microsoft.aspnetcore.components.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.4\\microsoft.aspnetcore.components.analyzers.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.4\\microsoft.aspnetcore.components.forms.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.4\\microsoft.aspnetcore.components.web.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.4\\microsoft.aspnetcore.metadata.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.4\\microsoft.extensions.dependencyinjection.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\microsoft.jsinterop\\3.1.4\\microsoft.jsinterop.3.1.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\system.text.encodings.web.4.7.1.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\nanno\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
